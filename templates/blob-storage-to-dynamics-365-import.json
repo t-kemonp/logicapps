@@ -362,7 +362,7 @@
       	},
 		{
             "type": "apiconnection",
-            "displayName": "${Resources.DYNAMICSCRMONLINE}",
+            "displayName": "Dynamics 365 F&O",
             "iconUri": "https://az818438.vo.msecnd.net/icons/dynamicscrmonline.png",
             "brandColor": "#16244E"
         }
